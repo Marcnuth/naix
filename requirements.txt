@@ -1,0 +1,9 @@
+opencv-python
+docopt
+tensorflow-gpu
+keras
+gym
+scikit-image
+statsmodels
+numba
+redis
